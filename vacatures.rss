@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:xhtml="http://www.w3.org/1999/xhtml"
+     xmlns:wd="urn:com.workday.report"
+     version="2.0">
+   <channel>
+      <title>RD Internal Job posting Enza Plaza</title>
+      <link>https://services1.wd103.myworkday.com/ccx/service/customreport2/enzazaden/ISU_EnzaPlaza/RD_Internal_Job_posting_Enza_Plaza?format=rss</link>
+      <item>
+         <title>Business executive 01</title>
+      </item>
+      <item>
+         <title>Business executive 02</title>
+      </item>
+      <item>
+         <title>Business executive 03</title>
+      </item>     
+   </channel>
+</rss>
